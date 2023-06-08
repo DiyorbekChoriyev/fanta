@@ -1,0 +1,2 @@
+# fanta
+Fanta haqida malumotlar
